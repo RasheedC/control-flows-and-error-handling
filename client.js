@@ -53,5 +53,4 @@ const validateInputs = () => {
     } else {
         setSuccess(password2);
     }
-
 };
